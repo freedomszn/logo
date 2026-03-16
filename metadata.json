@@ -1,7 +1,6 @@
 {
-  "name": "Freedom Token",
-  "symbol": "FREE",
-  "description": "Freedom Token built on Solana",
+  "name": "USD1",
+  "symbol": "USD1",
   "image": "https://raw.githubusercontent.com/freedomszn/logo/main/logo.png",
   "extensions": {
     "website": "https://yourwebsite.com",
