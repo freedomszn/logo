@@ -1,15 +1,11 @@
 {
   "name": "Freedom Token",
-  "symbol": "FDM",
+  "symbol": "FREE",
   "description": "Freedom Token built on Solana",
-  "image": "https://raw.githubusercontent.com/freedomszn/usd1/main/logo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/freedomszn/usd1/main/logo.png",
-        "type": "image/png"
-      }
-    ]
+  "image": "https://raw.githubusercontent.com/freedomszn/logo/main/logo.png",
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://x.com/yourhandle",
+    "telegram": "https://t.me/yourgroup"
   }
 }
