@@ -1,11 +1,11 @@
 {
   "name": "USD1",
   "symbol": "USD1",
-  "description": "This coin is in no way claiming to be usd1, this is for testing and educational purpose only",
+  "description": "USD1",
   "image": "https://raw.githubusercontent.com/freedomszn/logo/main/logo.png",
-  "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://x.com/yourhandle",
-    "telegram": "https://t.me/yourgroup"
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/freedomszn/logo/main/logo.png", "type": "image/png" }],
+    "category": "image"
   }
 }
