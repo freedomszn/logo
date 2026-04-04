@@ -1,7 +1,7 @@
 {
-  "name": "USD1",
-  "symbol": "USD1",
-  "description": "USD1",
+  "name": "USD1 Coin",
+  "symbol": "USD1C",
+  "description": "USD1 Coin USD1C",
   "image": "https://raw.githubusercontent.com/freedomszn/logo/main/logo.png",
   "attributes": [],
   "properties": {
